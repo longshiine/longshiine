@@ -13,10 +13,15 @@
 
 ### Experiences
 - **Microsoft Student Partners(MSP)** *2017.07 ~ 2018.08.*  
-    - Software Developer  
+    - **Software Developer**
+    - Evangelism & Web Development(Full-Stack)  
 - **System Intelligence Group(지능시스템 연구실)** *2020_10. ~ 2021.02.*  
-    - Lab Intern     
+    - **Lab Intern**     
+    - *Action Recognition for rehabilitation treatment*
 - **Artificial Intelligence and Mobility Laboratory(인공지능 및 모빌리티 연구실)** *2020.11. ~ 2021.05.*  
-    - Lab Intern   
-- **Software Maestro** *2021.03 ~ *  
+    - **Lab Intern**
+    - *Optimal Auction through Deep-Learning*
+    - *Advanced Integrated Intelligence for identification*
+- **Software Maestro** *2021.03 ~*  
     - AI Engineer & Software Developer 
+    
