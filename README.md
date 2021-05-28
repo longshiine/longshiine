@@ -12,7 +12,11 @@
 - Application Development  
 
 ### Experiences
-- **Microsoft Student Partners(MSP)** (Software Developer, 2017.07 ~ 2018.08.)
-- **System Intelligence Group(지능시스템 연구실)** (lab_intern, 2020_10. ~ 2021.02.)
-- **Artificial Intelligence and Mobility Laboratory(인공지능 및 모빌리티 연구실)** (lab_intern, 2020.11. ~ 2021.05.)
-- **Software Maestro** (2021.03 ~ )
+- **Microsoft Student Partners(MSP)** 
+    - Software Developer, 2017.07 ~ 2018.08.  
+- **System Intelligence Group(지능시스템 연구실)** 
+    - lab_intern, 2020_10. ~ 2021.02.    
+- **Artificial Intelligence and Mobility Laboratory(인공지능 및 모빌리티 연구실)** 
+    - lab_intern, 2020.11. ~ 2021.05.  
+- **Software Maestro** 
+    - AI Engineer & Software Developer, 2021.03 ~
