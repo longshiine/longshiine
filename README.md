@@ -22,6 +22,6 @@
     - **Lab Intern**
     - *Optimal Auction through Deep-Learning*
     - *Advanced Integrated Intelligence for identification*
-- **Software Maestro** *2021.03 ~*  
+- **Software Maestro** *2021.03 ~ current*  
     - **Deep Leaning Engineer & Software Developer**
     
