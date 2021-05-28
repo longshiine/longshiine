@@ -23,5 +23,5 @@
     - *Optimal Auction through Deep-Learning*
     - *Advanced Integrated Intelligence for identification*
 - **Software Maestro** *2021.03 ~*  
-    - AI Engineer & Software Developer 
+    - **Deep Leaning Engineer & Software Developer**
     
