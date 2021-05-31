@@ -6,7 +6,7 @@
 ### Interests
 - Deep Reinforcement Learing  
     - DQN, DDQN, REINFORCE with baseline
-    - Actor Critic, A3C, A2C
+    - Actor Critic, A3C, A2C, (... TRPO, PPO)
 - Computer Vision  
     - Generative Adversarial Network  
     - Style Transfer
