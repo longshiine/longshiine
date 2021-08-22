@@ -1,17 +1,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flongshiine&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Machine Learning Engineer
-- Undergraduate student at Korea Univ.
+### Position
+- **Deep-Learning Researcher & Engineer**
+- **Full-Stack Developer**
 
 ### Interests
-- Deep Reinforcement Learing  
+- **Deep Reinforcement Learning**
+    - Decision Making for various Unkown Environment Task
     - DQN, DDQN, REINFORCE with baseline
     - Actor Critic, A3C, A2C, (... TRPO, PPO)
-- Computer Vision  
-    - Generative Adversarial Network  
-    - Style Transfer
-- Natural Language Processing  
-- Application Development  
+- **Computer Vision**
+    - Style Transfer & Reconstruction Task
+    - StarGan, StyleGan2, SEAN, StyleMapGAN, (...) 
+- **Application Development**
 
 ### Experiences
 - **Microsoft Student Partners(MSP)** *2017.07 ~ 2018.08.*  
