@@ -13,6 +13,7 @@
     - Style Transfer & Reconstruction Task
     - StarGan, StyleGan2, SEAN, StyleMapGAN, (...) 
 - **Application Development**
+    - AI based Web, Mobile Services
 
 ### Experiences
 - **Microsoft Student Partners(MSP)** *2017.07 ~ 2018.08.*  
@@ -28,7 +29,7 @@
         - *Optimal Auction through Deep-Learning*
         - *Advanced Integrated Intelligence for identification*
   
-- **Software Maestro** *2021.03 ~ current*  
+- **Software Maestro** *2021.03 ~ current*
     - **Deep Leaning Engineer & Software Developer**
 
 ### Languages
