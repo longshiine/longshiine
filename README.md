@@ -29,8 +29,11 @@
         - *Optimal Auction through Deep-Learning*
         - *Advanced Integrated Intelligence for identification*
   
-- **Software Maestro** *2021.03 ~ current*
+- **Software Maestro** *2021.03 ~ 2022.02*
     - **Deep Leaning Engineer & Software Developer**
+    
+- **BiDi AI** *2021.12 ~ current*
+    - **CEO & Deep Learning Engineer**
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longshiine&exclude_repo=TEAM-BIDI/bidi&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
