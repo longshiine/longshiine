@@ -32,7 +32,7 @@
 - **Software Maestro** *2021.03 ~ 2022.02*
     - **Deep Leaning Engineer & Software Developer**
     
-- **BiDi AI** *2021.12 ~ current*
+- **BiDi AI** *2021.12 ~ 2022.11*
     - **CEO & Deep Learning Engineer**
 
 ### Languages
