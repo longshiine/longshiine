@@ -45,9 +45,11 @@
 ## 💻 Experiences
 - **BiDi AI** *2021.12 ~ 2022.11*
     - **CEO & Deep Learning Engineer**
+        - **Generative AI based Face Editing Application - BiDi**
 
 - **Software Maestro** *2021.03 ~ 2022.02*
     - **AI Engineer & Full-Stack Developer**
+        - **Led a research project Natural Hairstyle Editing for korean Facial Data using GAN**
 
 - **Artificial Intelligence and Mobility Laboratory, Korea Univ.** *2020.11. ~ 2021.05.*  
     - **AI Research Intern**
