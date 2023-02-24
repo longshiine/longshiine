@@ -5,21 +5,19 @@
 > Hello👋, My name Jangyeong(Jay) Kim. <br />
 > You can see my CV [here](https://jang-inspiration.com/cv.pdf).
 
+<br />
 
 ## 📞 Contact
 - Email: dkel03@korea.ac.kr
 - Blog : https://jang-inspiration.com
 
+<br />
 
 ## 🧑🏻‍💻 Position
 - **AI Researcher**
 - **Full-Stack Developer**
 
-
-## 📚 Education
-- **BS in Computer Science and Engineering**
-    - Korea University, *Mar 2017 — Present*
-
+<br />
 
 ## 💡 Interests
 - **Deep Reinforcement Learning**
@@ -35,6 +33,13 @@
     - AI based Web & Mobile Services
         - Next.js and Koa.js with Typescript
 
+<br />
+
+## 📚 Education
+- **BS in Computer Science and Engineering**
+    - Korea University, *Mar 2017 — Present*
+
+<br />
 
 ## 💻 Experiences
 - **BiDi AI** *2021.12 ~ 2022.11*
