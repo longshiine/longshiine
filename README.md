@@ -2,23 +2,26 @@
 
 [Instagram](https://www.instagram.com/jang.inspiration/) • [GitHub](https://github.com/longshiine) • [LinkedIn](https://www.linkedin.com/in/jangyeong-kim-b7924422a/)
 
-> Hello👋, My name Jangyeong(Jay) Kim. 
+> Hello👋, My name Jangyeong(Jay) Kim. <br />
 > You can see my CV [here](https://jang-inspiration.com/cv.pdf).
 
 
-### 📞 Contact
+## 📞 Contact
 - Email: dkel03@korea.ac.kr
 - Blog : https://jang-inspiration.com
 
-### 🧑🏻‍💻 Position
+
+## 🧑🏻‍💻 Position
 - **AI Researcher**
 - **Full-Stack Developer**
 
-### 📚 Education
+
+## 📚 Education
 - **BS in Computer Science and Engineering**
     - Korea University, *Mar 2017 — Present*
 
-### 💡 Interests
+
+## 💡 Interests
 - **Deep Reinforcement Learning**
     - Decision Making for various Unkown Environment Task
         - DQN, DDQN, REINFORCE with baseline
@@ -32,7 +35,8 @@
     - AI based Web & Mobile Services
         - Next.js and Koa.js with Typescript
 
-### 💻 Experiences
+
+## 💻 Experiences
 - **BiDi AI** *2021.12 ~ 2022.11*
     - **CEO & Deep Learning Engineer**
 
