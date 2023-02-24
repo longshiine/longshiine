@@ -3,7 +3,7 @@
 - Blog : https://jang-inspiration.com
 
 ### Position
-- **AI Researcher & Engineer**
+- **AI Researcher**
 - **Full-Stack Developer**
 
 ### Interests
