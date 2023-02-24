@@ -27,12 +27,12 @@
 - **Software Maestro** *2021.03 ~ 2022.02*
     - **AI Engineer & Full-Stack Developer**
 
-- **Artificial Intelligence and Mobility Laboratory(인공지능 및 모빌리티 연구실)** *2020.11. ~ 2021.05.*  
+- **Artificial Intelligence and Mobility Laboratory, Korea Univ.** *2020.11. ~ 2021.05.*  
     - **AI Research Intern**
         - *Optimal Auction through Deep-Learning*
         - *Advanced Integrated Intelligence for identification*
   
-- **System Intelligence Group(지능시스템 연구실)** *2020_10. ~ 2021.02.*  
+- **System Intelligence Group, Korea Univ.** *2020_10. ~ 2021.02.*  
     - **AI Research Intern**     
         - *Action Recognition for rehabilitation treatment*
   
