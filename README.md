@@ -21,15 +21,15 @@
 <br />
 
 ## 💡 Interests
+- **Computer Vision**
+    - Deep Generation Task
+        - DDPM, DDIM, Latent-Diffsuion, Dream Booth, Etc...
+    - Style Transfer & Reconstruction Task
+        - StarGan, StyleGan2, SEAN, StyleMapGAN, (...)
 - **Deep Reinforcement Learning**
     - Decision Making for various Unkown Environment Task
         - DQN, DDQN, REINFORCE with baseline
         - Actor Critic, A3C, A2C, (... TRPO, PPO)
-- **Computer Vision**
-    - Style Transfer & Reconstruction Task
-        - StarGan, StyleGan2, SEAN, StyleMapGAN, (...)
-    - Deep Generation Task
-        - DDPM, DDIM, Latent-Diffsuion, Dream Booth, Etc...
 - **Application Development**
     - AI based Web & Mobile Services
         - Next.js and Koa.js with Typescript
