@@ -43,7 +43,7 @@
 <br />
 
 ## 💻 Experiences
-- **NCSoft(Graphics AI Lab)** *2023.03 ~ Present*
+- **NCSoft, Graphics AI Lab** *2023.03 ~ Present*
     - **AI Research Intern**
         - *LDM based text to texture generation for realistic 3D face animation*
         - continue…
