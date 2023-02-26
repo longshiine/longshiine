@@ -43,10 +43,10 @@
 <br />
 
 ## 💻 Experiences
-- **NCSoft, Graphics AI Lab**
-  AI Research Intern, *2023.03 ~ Present*
-    - *LDM based text to texture generation for realistic 3D face animation*
-    - continue…
+- **NCSoft, Graphics AI Lab**, *2023.03 ~ Present*
+    - **AI Research Intern**
+        - *LDM based text to texture generation for realistic 3D face animation*
+        - continue…
 
 - **BiDi AI** *2021.12 ~ 2022.11*
     - **CEO & AI Engineer**
