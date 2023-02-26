@@ -29,7 +29,7 @@
     - Style Transfer & Reconstruction Task
         - StarGan, StyleGan2, SEAN, StyleMapGAN, (...)
     - Deep Generation Task
-        - DDPM, DDIM, Stable-Diffsuion, Dream Booth, Etc...
+        - DDPM, DDIM, Latent-Diffsuion, Dream Booth, Etc...
 - **Application Development**
     - AI based Web & Mobile Services
         - Next.js and Koa.js with Typescript
