@@ -43,8 +43,13 @@
 <br />
 
 ## 💻 Experiences
+- **NCSoft(Graphics AI Lab)** *Mar 2023 - Present*
+    - **AI Research Intern**
+        - *Text to texture generation for realistic 3D face animation*
+        - continue…
+
 - **BiDi AI** *2021.12 ~ 2022.11*
-    - **CEO & Deep Learning Engineer**
+    - **CEO & AI Engineer**
         - *Generative AI based Face Editing Application - BiDi*
 
 - **Software Maestro** *2021.03 ~ 2022.02*
